@@ -18,8 +18,5 @@ Some goals:
   \- If possible, add coordinates from your iNaturalist observation to `location_data.csv`  
 
   ## Tasks  
-  \- Adding entries to `index.html`  
-  	Good sources of info include Saanich Ethnobotany by Turner and Hebda, the SENCOTEN online dictionary and iNaturalist  
-  \- Adding photos to `index.html`  
-  	Crop images to meet the previous entries format  
-  	Good photos can be found from iNaturalist, make sure they are from the Saanich area  
+  \- Adding entries to `index.html` -> Good sources of info include Saanich Ethnobotany by Turner and Hebda, the SENCOTEN online dictionary and iNaturalist  
+  \- Adding photos to `index.html` - > Crop images to meet the previous entries format, good photos can be found from iNaturalist, make sure they are from the Saanich area  
